@@ -28,5 +28,5 @@ http://cedro3.com/ai/stable-diffusion/
 https://self-development.info/%E3%80%90%E7%B0%A1%E5%8D%98%E3%80%91%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E7%92%B0%E5%A2%83%E3%81%A7stable-diffusion%E3%81%A7%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/  
 
 ちなみに、 **「Evil Dxxxxxxn」** と入力して生成された画像がこちら。  
-※伏字の部分は想像におまかせします  
+※伏字の部分はご想像におまかせします  
 ![Evil Doraemon](https://raw.githubusercontent.com/Hideki-Kagaya/Stable_Diffusion_Simply/main/evil_d______n.png)
