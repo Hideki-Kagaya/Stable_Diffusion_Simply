@@ -6,10 +6,10 @@ https://huggingface.co/
 「I have read the Licence and agree with its terms」にチェックを入れて  
 「Access repository」をクリックします。  
 https://huggingface.co/CompVis/stable-diffusion-v1-4
-3 .下記ページの「New Token」をクリックして任意の名前を入力し、  
+3. 下記ページの「New Token」をクリックして任意の名前を入力し、  
 「Generate a token」をクリックするとトークンが表示されます。
 https://huggingface.co/settings/tokens
-4 .下記ページの「Open in Colab」ボタンをクリックするとGoogle Colabページに遷移します。
+4. 下記ページの「Open in Colab」ボタンをクリックするとGoogle Colabページに遷移します。
 1番目のセルの右側のテキストボックスに手順3で表示されたトークンをコピー＆ペーストし、
 セルを実行してください。
 https://github.com/Hideki-Kagaya/Stable_Diffusion_Simply/blob/main/stable_diffusion.ipynb
@@ -18,3 +18,5 @@ https://github.com/Hideki-Kagaya/Stable_Diffusion_Simply/blob/main/stable_diffus
 
 ※Google Chromeをご使用の場合は、3番目のセルを実行すると生成された画像が  
 PNGファイルとしてダウンロードされます。
+※一度4の手順を実行した後は、再度Google Colabページを開き直す、またはしばらく操作をしないなどして  
+セッションが切断されるまでは、再度同じ手順を実施することなく2番目のセルから画像の再生成が可能です。
