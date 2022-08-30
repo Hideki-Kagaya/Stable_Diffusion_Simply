@@ -9,10 +9,10 @@ https://huggingface.co/CompVis/stable-diffusion-v1-4
 3. 下記ページの「New Token」をクリックして任意の名前を入力し、  
 「Generate a token」をクリックするとトークンが表示されます。
 https://huggingface.co/settings/tokens
-4. 下記ページの「Open in Colab」ボタンをクリックするとGoogle Colabページに遷移します。
-1番目のセルの右側のテキストボックスに手順3で表示されたトークンをコピー＆ペーストし、
+4. 下記ページの「Open in Colab」ボタンをクリックするとGoogle Colabページに遷移します。  
+1番目のセルの右側のテキストボックスに手順3で表示されたトークンをコピー＆ペーストし、  
 セルを実行してください。
-https://github.com/Hideki-Kagaya/Stable_Diffusion_Simply/blob/main/stable_diffusion.ipynb
+https://github.com/Hideki-Kagaya/Stable_Diffusion_Simply/blob/main/stable_diffusion.ipynb  
 5. 約3～4分ほど待って1番目のセルの実行が完了したら、2番目のセルの右側に何か好きな英文を入れて  
 セルを実行します。そのまま1分ほど待つと、入力した英文に基づいて画像が自動生成されます。
 
