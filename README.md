@@ -7,7 +7,7 @@ https://huggingface.co/
 「Access repository」をクリックします。  
 https://huggingface.co/CompVis/stable-diffusion-v1-4
 3. 下記ページの「New Token」をクリックして任意の名前を入力し、  
-「Generate a token」をクリックするとトークンが表示されます。
+「Generate a token」をクリックするとトークンが表示されます。  
 https://huggingface.co/settings/tokens
 4. 下記ページの「Open in Colab」ボタンをクリックするとGoogle Colabページに遷移します。  
 1番目のセルの右側のテキストボックスに手順3で表示されたトークンをコピー＆ペーストし、  
