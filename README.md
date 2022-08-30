@@ -11,11 +11,13 @@ https://huggingface.co/CompVis/stable-diffusion-v1-4
 https://huggingface.co/settings/tokens
 4. 下記ページの「Open in Colab」ボタンをクリックするとGoogle Colabページに遷移します。  
 1番目のセルの右側のテキストボックスに手順3で表示されたトークンをコピー＆ペーストし、  
-セルを実行してください。  
+セルを実行してします。  
 https://github.com/Hideki-Kagaya/Stable_Diffusion_Simply/blob/main/stable_diffusion.ipynb  
 5. 約3～4分ほど待って1番目のセルの実行が完了したら、2番目のセルの右側に何か好きな英文を入れて  
 セルを実行します。そのまま1分ほど待つと、入力した英文に基づいて画像が自動生成されます。
 
+※Google Golabページを開いたら、まずは画面左上の「編集」-「ノートブックの生成」より、  
+「ハードウェア アクセラレータ」の項目が「GPU」になっていることをご確認ください。  
 ※Google Chromeをご使用の場合は、3番目のセルを実行すると生成された画像が  
 PNGファイルとしてダウンロードされます。  
 ※一度4の手順を実行した後は、再度Google Colabページを開き直す、またはしばらく操作をしないなどして  
